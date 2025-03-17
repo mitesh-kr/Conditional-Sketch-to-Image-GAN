@@ -1,0 +1,20 @@
+conditional-sketch-to-image-gan/
+├── data/
+│   └── README.md
+├── models/
+│   ├── __init__.py
+│   ├── discriminator.py
+│   ├── generator.py
+│   ├── classifier.py
+│   └── label_embedding.py
+├── utils/
+│   ├── __init__.py
+│   └── data_utils.py
+├── train.py
+├── evaluate.py
+├── config.py
+├── requirements.txt
+├── .gitignore
+├── README.md
+└── assets/
+    └── README.md
