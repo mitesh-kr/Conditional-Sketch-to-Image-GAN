@@ -2,6 +2,8 @@
 
 This project implements a conditional GAN architecture for translating unpaired sketches to realistic images, conditioned on class labels. The implementation is based on the ISIC skin lesion dataset.
 
+## [Google Colab Link:](https://colab.research.google.com/drive/16qGy8yQTfiCj-Ifi3Aeqr6ppxZcHZOTa?usp=sharing)
+
 ## Project Overview
 
 The main components of this project are:
@@ -156,6 +158,8 @@ The training progress is visualized using Weights & Biases (wandb), which tracks
 - Generator loss
 - Classification loss and accuracy
 - Generated image samples
+  
+![Generated Samples](https://drive.google.com/file/d/1wBD2bBjMxdAk-K2H5wPUNekLgK7bs3CS/view?usp=sharing)
 ## Acknowledgments
 
 - The ISIC Archive for providing the skin lesion dataset
