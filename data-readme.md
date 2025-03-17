@@ -17,4 +17,4 @@ data/
 └── Test_Labels.csv         # Test labels
 ```
 
-Download the dataset from [this link](https://drive.google.com/drive/folders/1vYv5SmA6nu4PKB_5PIk6FoTCtyEWztKP?usp=sharing).
+Download the dataset from [this link](https://www.kaggle.com/datasets/mahmudulhasantasin/isic-2016-original-dataset).
