@@ -159,7 +159,6 @@ The training progress is visualized using Weights & Biases (wandb), which tracks
 - Classification loss and accuracy
 - Generated image samples
   
-![Generated Samples](https://drive.google.com/file/d/1wBD2bBjMxdAk-K2H5wPUNekLgK7bs3CS/view?usp=sharing)
 ## Acknowledgments
 
 - The ISIC Archive for providing the skin lesion dataset
