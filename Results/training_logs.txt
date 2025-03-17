@@ -1,0 +1,100 @@
+Epoch [1/50] | D_Loss_Real: 0.3793 | D_Loss_Fake: 2.3142 | D_Real_Score: 0.6914 | D_Fake_Score: 0.8315 | D_Loss: 2.6935 | G_Loss: 0.2035 | C_Loss: 1.9478  | C_Accuracy: 14.5184
+classification_loss: 1.9468941688537598 | classification_accuracy: 14.2857
+Epoch [2/50] | D_Loss_Real: 0.6663 | D_Loss_Fake: 0.7306 | D_Real_Score: 0.5139 | D_Fake_Score: 0.5180 | D_Loss: 1.3969 | G_Loss: 0.6630 | C_Loss: 1.9256  | C_Accuracy: 15.5970
+classification_loss: 2.3539233718599593 | classification_accuracy: 11.4286
+Epoch [3/50] | D_Loss_Real: 0.6375 | D_Loss_Fake: 0.7304 | D_Real_Score: 0.5293 | D_Fake_Score: 0.5175 | D_Loss: 1.3680 | G_Loss: 0.6679 | C_Loss: 0.3318  | C_Accuracy: 84.9238
+classification_loss: 3.2494504842314718 | classification_accuracy: 65.7143
+Epoch [4/50] | D_Loss_Real: 0.5306 | D_Loss_Fake: 0.6438 | D_Real_Score: 0.5961 | D_Fake_Score: 0.4676 | D_Loss: 1.1744 | G_Loss: 0.9114 | C_Loss: 0.0284  | C_Accuracy: 99.1514
+classification_loss: 2.107721555063368 | classification_accuracy: 60.0000
+Epoch [5/50] | D_Loss_Real: 0.7078 | D_Loss_Fake: 0.6858 | D_Real_Score: 0.4994 | D_Fake_Score: 0.4909 | D_Loss: 1.3936 | G_Loss: 0.8101 | C_Loss: 0.0123  | C_Accuracy: 99.6306
+classification_loss: 2.1490790113671534 | classification_accuracy: 67.1429
+Epoch [6/50] | D_Loss_Real: 0.6536 | D_Loss_Fake: 0.6284 | D_Real_Score: 0.5279 | D_Fake_Score: 0.4537 | D_Loss: 1.2821 | G_Loss: 1.0143 | C_Loss: 0.0325  | C_Accuracy: 99.1514
+classification_loss: 3.31582024583804 | classification_accuracy: 57.1429
+Epoch [7/50] | D_Loss_Real: 0.7054 | D_Loss_Fake: 0.7074 | D_Real_Score: 0.4959 | D_Fake_Score: 0.5054 | D_Loss: 1.4128 | G_Loss: 0.7099 | C_Loss: 0.0057  | C_Accuracy: 99.8403
+classification_loss: 1.8774948370507798 | classification_accuracy: 72.8571
+Epoch [8/50] | D_Loss_Real: 0.7061 | D_Loss_Fake: 0.7070 | D_Real_Score: 0.4944 | D_Fake_Score: 0.5062 | D_Loss: 1.4131 | G_Loss: 0.6938 | C_Loss: 0.0009  | C_Accuracy: 99.9900
+classification_loss: 3.3733905093063976 | classification_accuracy: 64.2857
+Epoch [9/50] | D_Loss_Real: 0.6931 | D_Loss_Fake: 0.7124 | D_Real_Score: 0.5003 | D_Fake_Score: 0.5092 | D_Loss: 1.4054 | G_Loss: 0.6802 | C_Loss: 0.0002  | C_Accuracy: 100.0000
+classification_loss: 2.811306188785629 | classification_accuracy: 60.0000
+Epoch [10/50] | D_Loss_Real: 0.4427 | D_Loss_Fake: 0.3498 | D_Real_Score: 0.6651 | D_Fake_Score: 0.2527 | D_Loss: 0.7925 | G_Loss: 3.1364 | C_Loss: 1.1022  | C_Accuracy: 55.3521
+classification_loss: 1.9463212830679757 | classification_accuracy: 15.7143
+Epoch [11/50] | D_Loss_Real: 0.0340 | D_Loss_Fake: 0.0038 | D_Real_Score: 0.9669 | D_Fake_Score: 0.0037 | D_Loss: 0.0378 | G_Loss: 7.3067 | C_Loss: 1.9465  | C_Accuracy: 14.5876
+classification_loss: 1.9468491077423096 | classification_accuracy: 14.2857
+Epoch [12/50] | D_Loss_Real: 0.0116 | D_Loss_Fake: 0.0081 | D_Real_Score: 0.9885 | D_Fake_Score: 0.0078 | D_Loss: 0.0197 | G_Loss: 6.4958 | C_Loss: 1.1914  | C_Accuracy: 47.5439
+classification_loss: 1.6492156891368464 | classification_accuracy: 72.8571
+Epoch [13/50] | D_Loss_Real: 0.0997 | D_Loss_Fake: 0.0859 | D_Real_Score: 0.9403 | D_Fake_Score: 0.0679 | D_Loss: 0.1856 | G_Loss: 5.1565 | C_Loss: 0.0404  | C_Accuracy: 98.8219
+classification_loss: 1.3415652821092212 | classification_accuracy: 81.4286
+Epoch [14/50] | D_Loss_Real: 0.6852 | D_Loss_Fake: 0.7319 | D_Real_Score: 0.5348 | D_Fake_Score: 0.5001 | D_Loss: 1.4171 | G_Loss: 1.0220 | C_Loss: 0.0135  | C_Accuracy: 99.6705
+classification_loss: 2.68806618278258 | classification_accuracy: 64.2857
+Epoch [15/50] | D_Loss_Real: 0.6884 | D_Loss_Fake: 0.7035 | D_Real_Score: 0.5086 | D_Fake_Score: 0.4979 | D_Loss: 1.3919 | G_Loss: 0.8134 | C_Loss: 0.0570  | C_Accuracy: 98.6505
+classification_loss: 0.8421174378757185 | classification_accuracy: 82.8571
+Epoch [16/50] | D_Loss_Real: 0.6390 | D_Loss_Fake: 0.7042 | D_Real_Score: 0.5456 | D_Fake_Score: 0.4922 | D_Loss: 1.3431 | G_Loss: 0.8933 | C_Loss: 0.0071  | C_Accuracy: 99.8902
+classification_loss: 1.3741891213225688 | classification_accuracy: 72.8571
+Epoch [17/50] | D_Loss_Real: 0.6921 | D_Loss_Fake: 0.7072 | D_Real_Score: 0.5076 | D_Fake_Score: 0.5022 | D_Loss: 1.3993 | G_Loss: 0.7149 | C_Loss: 0.0007  | C_Accuracy: 99.9800
+classification_loss: 1.7068954258474132 | classification_accuracy: 67.1429
+Epoch [18/50] | D_Loss_Real: 0.6999 | D_Loss_Fake: 0.6984 | D_Real_Score: 0.5005 | D_Fake_Score: 0.4997 | D_Loss: 1.3983 | G_Loss: 0.7010 | C_Loss: 0.0002  | C_Accuracy: 100.0000
+classification_loss: 2.2419641467408695 | classification_accuracy: 64.2857
+Epoch [19/50] | D_Loss_Real: 0.6775 | D_Loss_Fake: 0.6711 | D_Real_Score: 0.5192 | D_Fake_Score: 0.4812 | D_Loss: 1.3486 | G_Loss: 0.7846 | C_Loss: 0.0048  | C_Accuracy: 99.9101
+classification_loss: 2.0387740118193536 | classification_accuracy: 72.8571
+Epoch [20/50] | D_Loss_Real: 0.5690 | D_Loss_Fake: 0.5544 | D_Real_Score: 0.5990 | D_Fake_Score: 0.3997 | D_Loss: 1.1235 | G_Loss: 1.3188 | C_Loss: 0.0748  | C_Accuracy: 98.9417
+classification_loss: 2.618304369958683 | classification_accuracy: 58.5714
+Epoch [21/50] | D_Loss_Real: 0.6375 | D_Loss_Fake: 0.5720 | D_Real_Score: 0.5767 | D_Fake_Score: 0.4132 | D_Loss: 1.2095 | G_Loss: 0.9876 | C_Loss: 0.0013  | C_Accuracy: 99.9800
+classification_loss: 0.9089467262644563 | classification_accuracy: 71.4286
+Epoch [22/50] | D_Loss_Real: 0.6105 | D_Loss_Fake: 0.5249 | D_Real_Score: 0.6051 | D_Fake_Score: 0.3867 | D_Loss: 1.1354 | G_Loss: 1.0973 | C_Loss: 0.0103  | C_Accuracy: 99.6805
+classification_loss: 1.9417715621016214 | classification_accuracy: 74.2857
+Epoch [23/50] | D_Loss_Real: 0.5986 | D_Loss_Fake: 0.4824 | D_Real_Score: 0.6260 | D_Fake_Score: 0.3621 | D_Loss: 1.0809 | G_Loss: 1.1278 | C_Loss: 0.0002  | C_Accuracy: 100.0000
+classification_loss: 1.732967342363342 | classification_accuracy: 62.8571
+Epoch [24/50] | D_Loss_Real: 0.5611 | D_Loss_Fake: 0.4473 | D_Real_Score: 0.6497 | D_Fake_Score: 0.3366 | D_Loss: 1.0084 | G_Loss: 1.2470 | C_Loss: 0.0004  | C_Accuracy: 99.9900
+classification_loss: 1.2074164521264237 | classification_accuracy: 78.5714
+Epoch [25/50] | D_Loss_Real: 0.5084 | D_Loss_Fake: 0.3951 | D_Real_Score: 0.6785 | D_Fake_Score: 0.2990 | D_Loss: 0.9035 | G_Loss: 1.4698 | C_Loss: 0.0190  | C_Accuracy: 99.6805
+classification_loss: 2.796437759697613 | classification_accuracy: 57.1429
+Epoch [26/50] | D_Loss_Real: 0.4722 | D_Loss_Fake: 0.3593 | D_Real_Score: 0.6965 | D_Fake_Score: 0.2747 | D_Loss: 0.8315 | G_Loss: 1.5206 | C_Loss: 0.0006  | C_Accuracy: 99.9900
+classification_loss: 2.0746694956736036 | classification_accuracy: 61.4286
+Epoch [27/50] | D_Loss_Real: 0.3832 | D_Loss_Fake: 0.2922 | D_Real_Score: 0.7410 | D_Fake_Score: 0.2282 | D_Loss: 0.6754 | G_Loss: 1.7939 | C_Loss: 0.0009  | C_Accuracy: 99.9800
+classification_loss: 2.6109020401643384 | classification_accuracy: 72.8571
+Epoch [28/50] | D_Loss_Real: 0.3187 | D_Loss_Fake: 0.2443 | D_Real_Score: 0.7776 | D_Fake_Score: 0.1915 | D_Loss: 0.5630 | G_Loss: 2.0962 | C_Loss: 0.0009  | C_Accuracy: 99.9700
+classification_loss: 2.89006877825599 | classification_accuracy: 71.4286
+Epoch [29/50] | D_Loss_Real: 0.2402 | D_Loss_Fake: 0.1875 | D_Real_Score: 0.8252 | D_Fake_Score: 0.1485 | D_Loss: 0.4277 | G_Loss: 2.5554 | C_Loss: 0.0086  | C_Accuracy: 99.8203
+classification_loss: 1.7075442048812224 | classification_accuracy: 71.4286
+Epoch [30/50] | D_Loss_Real: 0.2042 | D_Loss_Fake: 0.1680 | D_Real_Score: 0.8509 | D_Fake_Score: 0.1289 | D_Loss: 0.3722 | G_Loss: 2.9703 | C_Loss: 0.0001  | C_Accuracy: 100.0000
+classification_loss: 2.3575125195479165 | classification_accuracy: 71.4286
+Epoch [31/50] | D_Loss_Real: 0.1582 | D_Loss_Fake: 0.1278 | D_Real_Score: 0.8818 | D_Fake_Score: 0.1010 | D_Loss: 0.2860 | G_Loss: 3.4201 | C_Loss: 0.0181  | C_Accuracy: 99.7204
+classification_loss: 1.294260275210872 | classification_accuracy: 85.7143
+Epoch [32/50] | D_Loss_Real: 0.1354 | D_Loss_Fake: 0.1091 | D_Real_Score: 0.8982 | D_Fake_Score: 0.0863 | D_Loss: 0.2445 | G_Loss: 3.8151 | C_Loss: 0.0005  | C_Accuracy: 99.9900
+classification_loss: 1.017089143904465 | classification_accuracy: 84.2857
+Epoch [33/50] | D_Loss_Real: 0.1076 | D_Loss_Fake: 0.0849 | D_Real_Score: 0.9205 | D_Fake_Score: 0.0663 | D_Loss: 0.1925 | G_Loss: 3.9343 | C_Loss: 0.0001  | C_Accuracy: 100.0000
+classification_loss: 2.988348741183484 | classification_accuracy: 74.2857
+Epoch [34/50] | D_Loss_Real: 0.0931 | D_Loss_Fake: 0.0776 | D_Real_Score: 0.9293 | D_Fake_Score: 0.0601 | D_Loss: 0.1707 | G_Loss: 4.6909 | C_Loss: 0.0001  | C_Accuracy: 100.0000
+classification_loss: 2.3851943162725115 | classification_accuracy: 74.2857
+Epoch [35/50] | D_Loss_Real: 0.0829 | D_Loss_Fake: 0.0641 | D_Real_Score: 0.9407 | D_Fake_Score: 0.0492 | D_Loss: 0.1471 | G_Loss: 4.9737 | C_Loss: 0.0373  | C_Accuracy: 99.6106
+classification_loss: 1.5000622119513147 | classification_accuracy: 75.7143
+Epoch [36/50] | D_Loss_Real: 0.0738 | D_Loss_Fake: 0.0627 | D_Real_Score: 0.9459 | D_Fake_Score: 0.0479 | D_Loss: 0.1365 | G_Loss: 5.1412 | C_Loss: 0.0002  | C_Accuracy: 100.0000
+classification_loss: 1.8919090258947964 | classification_accuracy: 72.8571
+Epoch [37/50] | D_Loss_Real: 0.0600 | D_Loss_Fake: 0.0524 | D_Real_Score: 0.9540 | D_Fake_Score: 0.0387 | D_Loss: 0.1124 | G_Loss: 5.6662 | C_Loss: 0.0001  | C_Accuracy: 100.0000
+classification_loss: 2.347123087508927 | classification_accuracy: 77.1429
+Epoch [38/50] | D_Loss_Real: 0.0514 | D_Loss_Fake: 0.0442 | D_Real_Score: 0.9607 | D_Fake_Score: 0.0330 | D_Loss: 0.0957 | G_Loss: 6.0874 | C_Loss: 0.0024  | C_Accuracy: 99.9700
+classification_loss: 2.3938519921204198 | classification_accuracy: 77.1429
+Epoch [39/50] | D_Loss_Real: 0.0459 | D_Loss_Fake: 0.0419 | D_Real_Score: 0.9658 | D_Fake_Score: 0.0308 | D_Loss: 0.0878 | G_Loss: 6.2485 | C_Loss: 0.0002  | C_Accuracy: 100.0000
+classification_loss: 2.0039223246811355 | classification_accuracy: 70.0000
+Epoch [40/50] | D_Loss_Real: 0.0450 | D_Loss_Fake: 0.0371 | D_Real_Score: 0.9671 | D_Fake_Score: 0.0272 | D_Loss: 0.0821 | G_Loss: 6.5771 | C_Loss: 0.0036  | C_Accuracy: 99.8802
+classification_loss: 2.378915765920484 | classification_accuracy: 75.7143
+Epoch [41/50] | D_Loss_Real: 0.0372 | D_Loss_Fake: 0.0330 | D_Real_Score: 0.9725 | D_Fake_Score: 0.0247 | D_Loss: 0.0702 | G_Loss: 7.0329 | C_Loss: 0.0058  | C_Accuracy: 99.9002
+classification_loss: 3.391734594776218 | classification_accuracy: 77.1429
+Epoch [42/50] | D_Loss_Real: 0.0305 | D_Loss_Fake: 0.0262 | D_Real_Score: 0.9754 | D_Fake_Score: 0.0207 | D_Loss: 0.0567 | G_Loss: 7.2235 | C_Loss: 0.0000  | C_Accuracy: 100.0000
+classification_loss: 3.1101321821708034 | classification_accuracy: 75.7143
+Epoch [43/50] | D_Loss_Real: 0.0440 | D_Loss_Fake: 0.0350 | D_Real_Score: 0.9707 | D_Fake_Score: 0.0257 | D_Loss: 0.0791 | G_Loss: 7.6726 | C_Loss: 0.0369  | C_Accuracy: 99.3610
+classification_loss: 5.7950493727407615 | classification_accuracy: 70.0000
+Epoch [44/50] | D_Loss_Real: 0.0258 | D_Loss_Fake: 0.0214 | D_Real_Score: 0.9799 | D_Fake_Score: 0.0169 | D_Loss: 0.0472 | G_Loss: 7.8277 | C_Loss: 0.0000  | C_Accuracy: 100.0000
+classification_loss: 3.8589599012310414 | classification_accuracy: 71.4286
+Epoch [45/50] | D_Loss_Real: 0.0270 | D_Loss_Fake: 0.0249 | D_Real_Score: 0.9803 | D_Fake_Score: 0.0178 | D_Loss: 0.0519 | G_Loss: 8.1495 | C_Loss: 0.0002  | C_Accuracy: 99.9900
+classification_loss: 0.9737968976067383 | classification_accuracy: 88.5714
+Epoch [46/50] | D_Loss_Real: 0.0255 | D_Loss_Fake: 0.0283 | D_Real_Score: 0.9807 | D_Fake_Score: 0.0200 | D_Loss: 0.0538 | G_Loss: 8.7324 | C_Loss: 0.0303  | C_Accuracy: 99.6406
+classification_loss: 1.2626014603004607 | classification_accuracy: 78.5714
+Epoch [47/50] | D_Loss_Real: 0.0187 | D_Loss_Fake: 0.0130 | D_Real_Score: 0.9894 | D_Fake_Score: 0.0096 | D_Loss: 0.0317 | G_Loss: 10.1054 | C_Loss: 0.0303  | C_Accuracy: 99.6106
+classification_loss: 2.9558631624483627 | classification_accuracy: 65.7143
+Epoch [48/50] | D_Loss_Real: 0.0047 | D_Loss_Fake: 0.0038 | D_Real_Score: 0.9961 | D_Fake_Score: 0.0031 | D_Loss: 0.0085 | G_Loss: 11.7915 | C_Loss: 0.0006  | C_Accuracy: 99.9900
+classification_loss: 2.8821287210219446 | classification_accuracy: 71.4286
+Epoch [49/50] | D_Loss_Real: 0.0023 | D_Loss_Fake: 0.0022 | D_Real_Score: 0.9980 | D_Fake_Score: 0.0017 | D_Loss: 0.0044 | G_Loss: 12.9727 | C_Loss: 0.0026  | C_Accuracy: 99.9401
+classification_loss: 4.901034821487883 | classification_accuracy: 72.8571
+Epoch [50/50] | D_Loss_Real: 0.0014 | D_Loss_Fake: 0.0018 | D_Real_Score: 0.9987 | D_Fake_Score: 0.0013 | D_Loss: 0.0032 | G_Loss: 13.9872 | C_Loss: 0.0001  | C_Accuracy: 100.0000
+classification_loss: 1.5758355091575393 | classification_accuracy: 82.8571
