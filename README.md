@@ -156,26 +156,6 @@ The training progress is visualized using Weights & Biases (wandb), which tracks
 - Generator loss
 - Classification loss and accuracy
 - Generated image samples
-
-## Citation
-
-If you use this code in your research, please cite our project:
-
-```
-@misc{conditional-sketch-to-image-gan,
-  author = {Your Name},
-  title = {Conditional Sketch-to-Image GAN},
-  year = {2025},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/yourusername/conditional-sketch-to-image-gan}}
-}
-```
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Acknowledgments
 
 - The ISIC Archive for providing the skin lesion dataset
